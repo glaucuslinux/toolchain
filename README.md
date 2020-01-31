@@ -12,4 +12,4 @@ glaucus's toolchain
 * [GitLab](https://gitlab.com/glaucuslinux/toolchain)
 * [NotABug](https://notabug.org/glaucuslinux/toolchain)
 * [SourceForge](https://git.code.sf.net/p/glaucuslinux/toolchain)
-* [SourceHut](https://git.sr.ht/~glaucuslinux/glaucus)
+* [SourceHut](https://git.sr.ht/~glaucuslinux/toolchain)
