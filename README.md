@@ -12,22 +12,22 @@ https://gitter.im/glaucuslinux/toolchain?utm_source=badge&utm_medium=badge&utm_c
 glaucus's toolchain
 
 ## Community
-*   [Discord](https://discord.gg/gZSHj65)
-*   [Gitter](https://gitter.im/glaucuslinux/toolchain)
-*   [Reddit](https://www.reddit.com/r/glaucus)
-*   [Telegram](https://t.me/glaucuslinux)
+* [Discord](https://discord.gg/gZSHj65)
+* [Gitter](https://gitter.im/glaucuslinux/toolchain)
+* [Reddit](https://www.reddit.com/r/glaucus)
+* [Telegram](https://t.me/glaucuslinux)
 
 ## Donate
-*   [Ko-fi](https://ko-fi.com/glaucuslinux)
-*   [Liberapay](https://liberapay.com/glaucuslinux)
-*   [Patreon](https://www.patreon.com/glaucuslinux)
-*   [PayPal](https://www.paypal.me/glaucuslinux)
+* [Ko-fi](https://ko-fi.com/glaucuslinux)
+* [Liberapay](https://liberapay.com/glaucuslinux)
+* [Patreon](https://www.patreon.com/glaucuslinux)
+* [PayPal](https://www.paypal.me/glaucuslinux)
 
 ## Mirrors
-*   [BitBucket](https://bitbucket.org/glaucuslinux/toolchain)
-*   [Framagit](https://framagit.org/glaucuslinux/toolchain)
-*   [GitHub](https://github.com/glaucuslinux/toolchain)
-*   [GitLab](https://gitlab.com/glaucuslinux/toolchain)
-*   [NotABug](https://notabug.org/glaucuslinux/toolchain)
-*   [SourceForge](https://git.code.sf.net/p/glaucuslinux/toolchain)
-*   [SourceHut](https://git.sr.ht/~glaucuslinux/toolchain)
+* [BitBucket](https://bitbucket.org/glaucuslinux/toolchain)
+* [Framagit](https://framagit.org/glaucuslinux/toolchain)
+* [GitHub](https://github.com/glaucuslinux/toolchain)
+* [GitLab](https://gitlab.com/glaucuslinux/toolchain)
+* [NotABug](https://notabug.org/glaucuslinux/toolchain)
+* [SourceForge](https://git.code.sf.net/p/glaucuslinux/toolchain)
+* [SourceHut](https://git.sr.ht/~glaucuslinux/toolchain)
