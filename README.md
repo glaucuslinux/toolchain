@@ -11,6 +11,17 @@ https://gitter.im/glaucuslinux/toolchain?utm_source=badge&utm_medium=badge&utm_c
 
 glaucus's toolchain
 
+## cerata
+* `binutils`: 2.34
+* `gmp`: 6.2.0
+* `mpfr`: 4.0.2
+* `mpc`: 1.1.0
+* `gcc`: 9.2.0
+* `linux-headers`: 5.5.6
+* `musl`: 1.2.0
+* `libstdc++-v3`: 9.2.0
+* `isl`: 0.22.1
+
 ## Community
 * [Discord](https://discord.gg/gZSHj65)
 * [Gitter](https://gitter.im/glaucuslinux/toolchain)
