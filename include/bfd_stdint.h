@@ -1,4 +1,4 @@
-/* generated for  x86_64-pc-linux-musl-gcc (GCC) 9.2.0 */
+/* generated for  x86_64-pc-linux-musl-gcc (GCC) 9.3.0 */
 
 #ifndef GCC_GENERATED_STDINT_H
 #define GCC_GENERATED_STDINT_H 1
