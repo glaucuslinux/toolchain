@@ -8,6 +8,7 @@ https://github.com/glaucuslinux/toolchain/releases)
 [![Join the chat at https://gitter.im/glaucuslinux/toolchain](
 https://badges.gitter.im/glaucuslinux/toolchain.svg)](
 https://gitter.im/glaucuslinux/toolchain?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fglaucuslinux%2Ftoolchain.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fglaucuslinux%2Ftoolchain?ref=badge_shield)
 
 glaucus's toolchain
 
@@ -35,3 +36,7 @@ glaucus's toolchain
 * [NotABug](https://notabug.org/glaucuslinux/toolchain)
 * [SourceForge](https://git.code.sf.net/p/glaucuslinux/toolchain)
 * [SourceHut](https://git.sr.ht/~glaucuslinux/toolchain)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fglaucuslinux%2Ftoolchain.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fglaucuslinux%2Ftoolchain?ref=badge_large)
