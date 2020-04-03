@@ -22,7 +22,7 @@ glaucus's toolchain
 * `musl`: 1.2.0
 
 ## Community
-* [Discord](https://discord.gg/gZSHj65)
+* [Discord](https://discord.gg/nDKNmNc)
 * [Gitter](https://gitter.im/glaucuslinux/toolchain)
 * [Reddit](https://www.reddit.com/r/glaucus)
 * [Telegram](https://t.me/glaucuslinux)
