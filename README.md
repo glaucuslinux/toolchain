@@ -13,6 +13,7 @@ glaucus's toolchain
 
 ## cerata
 * `binutils`: 2.34
+* `ccache`: 3.7.9
 * `gcc`: 9.3.0
 * `gmp`: 6.2.0
 * `isl`: 0.22.1
