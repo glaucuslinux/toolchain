@@ -56452,7 +56452,7 @@ File: gcc.info,  Node: Bug Reporting,  Prev: Bug Criteria,  Up: Bugs
 =================================
 
 Bugs should be reported to the bug database at
-<https://gcc.gnu.org/bugs/>.
+<https://github.com/glaucuslinux/glaucus/issues>.
 
 
 File: gcc.info,  Node: Service,  Next: Contributing,  Prev: Bugs,  Up: Top
@@ -65788,15 +65788,15 @@ Node: Warnings and Errors2387023
 Node: Bugs2388785
 Node: Bug Criteria2389252
 Node: Bug Reporting2391462
-Node: Service2391680
-Node: Contributing2392500
-Node: Funding2393241
-Node: GNU Project2395731
-Node: Copying2396377
-Node: GNU Free Documentation License2433886
-Node: Contributors2459004
-Node: Option Index2499977
-Node: Keyword Index2763456
+Node: Service2391701
+Node: Contributing2392521
+Node: Funding2393262
+Node: GNU Project2395752
+Node: Copying2396398
+Node: GNU Free Documentation License2433907
+Node: Contributors2459025
+Node: Option Index2499998
+Node: Keyword Index2763477
 
 End Tag Table
 

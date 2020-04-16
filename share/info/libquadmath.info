@@ -794,7 +794,7 @@ File: libquadmath.info,  Node: Reporting Bugs,  Prev: GNU Free Documentation Lic
 ****************
 
 Bugs in the GCC Quad-Precision Math Library implementation should be
-reported via <https://gcc.gnu.org/bugs/>.
+reported via <https://github.com/glaucuslinux/glaucus/issues>.
 
 
 
