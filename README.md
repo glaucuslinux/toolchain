@@ -21,6 +21,7 @@ glaucus's toolchain
 * `mpc`: 1.1.0
 * `mpfr`: 4.0.2
 * `musl`: 1.2.0
+* `zlib-ng`: git
 
 ## Community
 * [Discord](https://discord.gg/nDKNmNc)
