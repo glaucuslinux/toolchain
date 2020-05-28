@@ -1081,7 +1081,7 @@ namespace std
 #define _GLIBCXX_HAVE_SINL 1
 
 /* Defined if sleep exists. */
-/* #undef _GLIBCXX_HAVE_SLEEP */
+#define _GLIBCXX_HAVE_SLEEP 1
 
 /* Define to 1 if you have the `sockatmark' function. */
 #define _GLIBCXX_HAVE_SOCKATMARK 1
@@ -1220,7 +1220,7 @@ namespace std
 #define _GLIBCXX_HAVE_UNISTD_H 1
 
 /* Defined if usleep exists. */
-/* #undef _GLIBCXX_HAVE_USLEEP */
+#define _GLIBCXX_HAVE_USLEEP 1
 
 /* Define to 1 if you have the <utime.h> header file. */
 #define _GLIBCXX_HAVE_UTIME_H 1
@@ -1683,7 +1683,7 @@ namespace std
 /* #undef _GLIBCXX_USE_LSTAT */
 
 /* Defined if nanosleep is available. */
-#define _GLIBCXX_USE_NANOSLEEP 1
+/* #undef _GLIBCXX_USE_NANOSLEEP */
 
 /* Define if NLS translations are to be used. */
 /* #undef _GLIBCXX_USE_NLS */
