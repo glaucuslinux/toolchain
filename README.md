@@ -12,23 +12,20 @@ https://gitter.im/glaucuslinux/toolchain?utm_source=badge&utm_medium=badge&utm_c
 glaucus's x86-64 toolchain
 
 ## cerata
-* `binutils`: 2.34
-* `ccache`: 3.7.9
-* `gcc`: 10.1.0
+* `binutils`: 2.35
+* `gcc`: 10.2.0
 * `gmp`: 6.2.0
 * `isl`: 0.22.1
-* `libstdc++-v3`: 10.1.0
-* `mpc`: 1.1.0
-* `mpfr`: 4.0.2
-* `musl`: 1.2.0
-* `zlib-ng`: git
-* `zstd`: 1.4.4
+* `libgomp`: 10.2.0
+* `libstdc++-v3`: 10.2.0
+* `mpc`: 1.2.0
+* `mpfr`: 4.1.0
+* `musl`: 1.2.1
 
 ## Features
-* Compiler cache (`ccache`)
-* Graphite loop optimizations (`isl`)
-* Supported LTO compression algorithms: `zstd` (default) and `zlib-ng`
-(fall-back)
+* Graphite loop optimizations: `isl`
+* Open Multi-Processing (OpenMP): `libgomp`
+* Supported LTO compression algorithms: `zstd` (default) and `zlib` (fall-back)
 
 ## Community
 * [Discord](https://discord.gg/nDKNmNc)
