@@ -1,5 +1,5 @@
 /* Generated automatically by the program 'build/genpreds'
-   from the machine description file '/home/firasuke/Downloads/Git/glaucus/radula/../temporary/toolchain/sources/gcc/gcc/config/i386/i386.md'.  */
+   from the machine description file '/home/firasuke/Downloads/Git/glaucus/radula/../tmp/toolchain/src/gcc/gcc/config/i386/i386.md'.  */
 
 #ifndef GCC_TM_PREDS_H
 #define GCC_TM_PREDS_H
