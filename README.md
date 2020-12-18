@@ -12,13 +12,13 @@ https://gitter.im/glaucuslinux/toolchain?utm_source=badge&utm_medium=badge&utm_c
 glaucus's x86-64 toolchain
 
 ## cerata
-* `binutils`: 2.35
+* `binutils`: 2.35.1
 * `gcc`: 10.2.0
-* `gmp`: 6.2.0
-* `isl`: 0.22.1
+* `gmp`: 6.2.1
+* `isl`: 0.23
 * `libgomp`: 10.2.0
 * `libstdc++-v3`: 10.2.0
-* `mpc`: 1.2.0
+* `mpc`: 1.2.1
 * `mpfr`: 4.1.0
 * `musl`: 1.2.1
 
